@@ -1,4 +1,4 @@
-const plussIcon = document.querySelector(".question-img");
+const plussIcon = document.querySelector(".question-btn");
 const paragraph = document.querySelector(".paragraph");
 
 function expandQuestion() {

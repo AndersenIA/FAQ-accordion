@@ -124,15 +124,20 @@ body {
   margin-top: 3rem;
 }
 
+.question-btn {
+  display: inline;
+  float: right;
+  margin-right: 2rem;
+  color: #fff;
+  cursor: pointer;
+  width: 2rem;
+}
+
 .question-img {
   font-size: 1rem;
   display: inline;
   float: right;
   margin-right: 2rem;
-}
-
-.question-img:hover {
-  cursor: pointer;
 }
 
 .sub-heading {
