@@ -131,6 +131,10 @@ body {
   margin-right: 2rem;
 }
 
+.question-img:hover {
+  cursor: pointer;
+}
+
 .sub-heading {
   font-size: 1rem;
 }
@@ -143,4 +147,9 @@ body {
 
 .invisible {
   display: none;
+}
+
+.attribution {
+  margin-top: 2rem;
+  font-size: 0.8rem;
 }
